@@ -1,2 +1,2 @@
-# pokedex-demos
-versões do projeto pokedex em desenvolvimento
+# POKÉDEX: A API POKÉMON!
+README.md em construção...

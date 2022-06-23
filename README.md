@@ -28,6 +28,6 @@ No Android Studio você pode utilizar um emulador ou conectar seu dispositivo m�
 Após configurar seu emulador ou preparar seu dispositivo real, basta clicar em "Run" ou usar o atalho Shift F10 (Windows) ou Control R (Mac). Prontinho! Divirta-se utilizando sua Pokédex.
 
 ### Para relatar erros, sugerir melhorias ou notificar bugs, por favor visite:
-Pokedex PokeAPI issues: <https://github.com/BeatrizNataly/pokedex-demos/issues>
+Pokedex issues: <https://github.com/BeatrizNataly/pokedex/issues>
 
 ![Pikachu](https://imagensemoldes.com.br/wp-content/uploads/2020/04/Pikachu-Pok%C3%A9mon-PNG.png)

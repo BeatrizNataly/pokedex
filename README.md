@@ -11,6 +11,8 @@ A aplicação Pokédex foi desenvolvida para dispositivos mobile, funcionando na
 
 ⚡️ Terminou sua pesquisa ou a visualização das informações e deseja voltar à lista principal?... Clicando nos **botões da tela de X ou arrow back (<-)** é possível **retornar ao início** de sua jornada!
 
+⚡️ Acessou a lista e perdeu a conexão?... Sem problemas, o aplicativo **salva automaticamente** um conjunto de Pokémons da lista para você acessar e também te dá a opção de **deslizar para cima** para recarregar sua lista novamente quando possuir conexão!
+
 #### "Como isso é possível?"
 ⚡️ Todas informações atualizadas e completas dos pokémons estão disponíveis na API pública oficial! Saiba mais:
 * Pokédex Pokemon API: <https://api.pokemon.com/br/pokedex/>

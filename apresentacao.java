@@ -8,8 +8,8 @@ public class Main {
     
     System.out.println("Olá mundo!");
     System.out.println("Muito obrigada por visitar meu projeto. \n" +
-                      "Para testá-lo por favor baixe o .zip mais recente na pasta main. Preferencialmente alguma versão fechada: " 
-                       + " -- que NÃO possua 'beta' no nome --\n" +
+                      "Para testá-lo por favor baixe o .zip mais recente. Preferencialmente alguma versão fechada: " 
+                       + " -- que NÃO possua 'beta' no nome --\n-- Ou seja, da pasta pokedex/releases --" +
                       "Extraia o zip na pasta de sua preferência e rode o projeto utilizando Android Studio. Divirta-se!");
     System.out.println("\nPara relatar erros, problemas ou sugerir melhorias, por favor visite: https://github.com/BeatrizNataly/pokedex/issues/");
     System.out.println("\nNão se esqueça de ler o README.md na página principal do projeto para mais informações relevantes.");

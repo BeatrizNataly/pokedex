@@ -1,6 +1,5 @@
 # POKÉDEX: A API POKÉMON!
-
-![Logo pokémon](https://logodownload.org/wp-content/uploads/2017/08/pokemon-logo-8.png)
+![Screenshot da aplicação](https://raw.githubusercontent.com/BeatrizNataly/pokedex/main/screenshots/banner-pokedex.png)
 Prepare-se para sua aventura... Consulte a lista completa de pokémons com sua própria Pokédex!
 A aplicação Pokédex foi desenvolvida para dispositivos mobile, funcionando nas versões mais recentes (2022) até um mínimo de SDK API 21: Android 5.0 (Lollipop)
 
@@ -37,4 +36,4 @@ Após configurar seu emulador ou preparar seu dispositivo real, basta clicar em 
 ### Para relatar erros, sugerir melhorias ou notificar bugs, por favor visite:
 Pokedex issues: <https://github.com/BeatrizNataly/pokedex/issues>
 
-![Pikachu](https://imagensemoldes.com.br/wp-content/uploads/2020/04/Pikachu-Pok%C3%A9mon-PNG.png)
+![Screenshot 2 da aplicação](https://raw.githubusercontent.com/BeatrizNataly/pokedex/main/screenshots/banner-pokedex2.png)

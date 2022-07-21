@@ -13,6 +13,8 @@ A aplicação Pokédex foi desenvolvida para dispositivos mobile, funcionando na
 
 ⚡️ Acessou a lista e perdeu a conexão?... Sem problemas, o aplicativo **salva automaticamente** um conjunto de Pokémons da lista para você acessar e também te dá a opção de **deslizar para cima** para recarregar sua lista novamente quando possuir conexão!
 
+⚡️ Encontrou um pokémon que gostaria de acessar novamente mais tarde? Você pode *favoritar* um pokémon *clicando no ícone de coração* que aparece assim que expandir suas informações, e encontrá-lo em sua lista de pokémons favoritos.
+
 #### "Como isso é possível?"
 ⚡️ Todas informações atualizadas e completas dos pokémons estão disponíveis na API pública oficial! Saiba mais:
 * Pokédex Pokemon API: <https://api.pokemon.com/br/pokedex/>

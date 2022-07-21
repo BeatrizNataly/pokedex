@@ -16,9 +16,9 @@ A aplicação Pokédex foi desenvolvida para dispositivos mobile, funcionando na
 
 #### "Como isso é possível?"
 ⚡️ Todas informações atualizadas e completas dos pokémons estão disponíveis na API pública oficial! Saiba mais:
-* Pokédex Pokemon API: <https://api.pokemon.com/br/pokedex/>
-* Pokémon API Postman commands: <https://documenter.getpostman.com/view/12403653/TVK8cLiK>
-* Documentation PokeAPI: <https://pokeapi.co/docs/v2>
+* [Pokédex Pokemon API](https://api.pokemon.com/br/pokedex/)
+* [Pokémon API Postman commands](https://documenter.getpostman.com/view/12403653/TVK8cLiK)
+* [Documentation PokeAPI](https://pokeapi.co/docs/v2)
 
 ## Executando o app:
 ![Screenshot 2 da aplicação](https://raw.githubusercontent.com/BeatrizNataly/pokedex/main/screenshots/banner-pokedex2.png)
@@ -29,10 +29,10 @@ A aplicação Pokédex foi desenvolvida para dispositivos mobile, funcionando na
 Após realizar download do arquivo .zip, escolha um local do computador para extrair a pasta, utilize o Android Studio para abrir a pasta.
 No Android Studio você pode utilizar um emulador ou conectar seu dispositivo móvel para executar e testar o projeto, saiba mais em:
 
-* Executar app no Android Studio: <https://developer.android.com/training/basics/firstapp/running-app?hl=pt-br#:~:text=No%20Android%20Studio%2C%20crie%20um,voc%C3%AA%20quer%20executar%20o%20app.>
-* Executar apps no Android Studio usando emulador: <https://developer.android.com/studio/run/emulator?hl=pt-br>
+* [Executar app no Android Studio](https://developer.android.com/training/basics/firstapp/running-app?hl=pt-br#:~:text=No%20Android%20Studio%2C%20crie%20um,voc%C3%AA%20quer%20executar%20o%20app.)
+* [Executar apps no Android Studio usando emulador](https://developer.android.com/studio/run/emulator?hl=pt-br)
 
 Após configurar seu emulador ou preparar seu dispositivo real, basta clicar em "Run" ou usar o atalho Shift F10 (Windows) ou Control R (Mac). Prontinho! Divirta-se utilizando sua Pokédex.
 
 ### Para relatar erros, sugerir melhorias ou notificar bugs, por favor visite:
-Pokedex issues: <https://github.com/BeatrizNataly/pokedex/issues>
+[Pokedex issues](https://github.com/BeatrizNataly/pokedex/issues)

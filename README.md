@@ -21,6 +21,7 @@ A aplicação Pokédex foi desenvolvida para dispositivos mobile, funcionando na
 * Documentation PokeAPI: <https://pokeapi.co/docs/v2>
 
 ## Executando o app:
+![Screenshot 2 da aplicação](https://raw.githubusercontent.com/BeatrizNataly/pokedex/main/screenshots/banner-pokedex2.png)
 **Baixe o zip mais recente do projeto**; Ele está na pasta pokedex/releases definido no formato nomeDoArquivo-data, por exemplo "Pokedex-01-01" ou "Pokedex-01.01". Considere o formato dia e mês (quando aplicável, o último elemento será o ano, ex: "Pokedex-31-12-2022").
 
 **ATENÇÃO** : Versões definidas como "Beta" na pasta pokedex/beta-releases, exemplo: "Pokedex-01.01-BETA" são versões com atualizações e/ou implementações não finalizadas e podem apresentar mais erros/bugs que as versões finais das atualizações lançadas, considere esse fator antes de baixar e testar versões beta da aplicação.
@@ -35,5 +36,3 @@ Após configurar seu emulador ou preparar seu dispositivo real, basta clicar em 
 
 ### Para relatar erros, sugerir melhorias ou notificar bugs, por favor visite:
 Pokedex issues: <https://github.com/BeatrizNataly/pokedex/issues>
-
-![Screenshot 2 da aplicação](https://raw.githubusercontent.com/BeatrizNataly/pokedex/main/screenshots/banner-pokedex2.png)

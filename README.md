@@ -1,4 +1,9 @@
 # POKÉDEX: A API POKÉMON!
+
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/BeatrizNataly/pokedex" alt="release"/>
+</p>
+
 ![Screenshot da aplicação](https://raw.githubusercontent.com/BeatrizNataly/pokedex/main/screenshots/banner-pokedex.png)
 Prepare-se para sua aventura... Consulte a lista completa de pokémons com sua própria Pokédex!
 A aplicação Pokédex foi desenvolvida para dispositivos mobile, funcionando nas versões mais recentes (2022) até um mínimo de SDK API 21: Android 5.0 (Lollipop)

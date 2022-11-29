@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/sprite_pokeball0" android:duration="35"></item>
+    <item android:drawable="@drawable/sprite_pokeball1" android:duration="35"></item>
+    <item android:drawable="@drawable/sprite_pokeball2" android:duration="35"></item>
+    <item android:drawable="@drawable/sprite_pokeball3" android:duration="35"></item>
+    <item android:drawable="@drawable/sprite_pokeball4" android:duration="35"></item>
+    <item android:drawable="@drawable/sprite_pokeball5" android:duration="35"></item>
+    <item android:drawable="@drawable/sprite_pokeball6" android:duration="35"></item>
+    <item android:drawable="@drawable/sprite_pokeball7" android:duration="35"></item>
+</animation-list>
